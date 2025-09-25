@@ -1,8 +1,8 @@
-# Plinth Template Repository 
+# Hash Lock Repository 
 
-A template repository for your Plinth smart contract project.
+A template repository for the canonical building block for atomic swaps, simple HTLC-like locks, donation redemptions where beneficiary reveals a secret, etc.
 
-Plinth currently supports GHC `v9.6.x`. Cabal `v3.8+` is recommended.
+This Repo currently supports GHC `v9.6.x`. Cabal `v3.8+` is recommended.
 
 ### 1. Create the repository
 
